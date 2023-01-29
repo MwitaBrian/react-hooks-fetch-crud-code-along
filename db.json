@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cookies",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Yogurt",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 21
+    },
+    {
+      "name": "Ice Cream",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 23
     }
   ]
 }
